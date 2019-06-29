@@ -24,7 +24,9 @@ public class Main {
 
 }
 
-
+/**
+ * 数组指针
+ */
 class Solution {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;

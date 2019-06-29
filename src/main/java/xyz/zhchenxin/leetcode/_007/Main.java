@@ -22,6 +22,9 @@ public class Main {
 
 }
 
+/**
+ * 数字的取最低位, 降位
+ */
 class Solution {
     public int reverse(int x) {
         int ret = 0;

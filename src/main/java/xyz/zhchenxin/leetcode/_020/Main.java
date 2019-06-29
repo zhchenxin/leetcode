@@ -28,6 +28,9 @@ public class Main {
 
 }
 
+/**
+ * 栈的基本操作
+ */
 class Solution {
     public boolean isValid(String s) {
 
