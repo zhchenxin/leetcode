@@ -5,7 +5,7 @@ package xyz.zhchenxin.leetcode._027;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        if (3 != (new Solution()).removeElement(new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4})) {
+        if (8 != (new Solution()).removeElement(new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}, 0)) {
             throw new Exception("异常");
         }
     }
