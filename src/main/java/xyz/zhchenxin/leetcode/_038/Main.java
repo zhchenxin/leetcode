@@ -16,6 +16,9 @@ public class Main {
 
 }
 
+/**
+ * 递归
+ */
 class Solution {
     public String countAndSay(int n) {
         if (n == 1){
